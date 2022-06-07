@@ -1,4 +1,4 @@
-/*  IDENTITAS DIRI
+/*  IDENTITAS DIRI :
  *  NIM : 10119028
  *  NAMA : Rizal Sihombing
  *  KELAS : IF-1
